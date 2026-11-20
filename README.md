@@ -10,7 +10,7 @@
 
 > Detects **faces** in images or a live webcam feed and predicts each person's **gender** (Male/Female) and **age range** across 8 age buckets — using three pre-trained deep learning models loaded via **OpenCV DNN**.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
+
 
 </div>
 
